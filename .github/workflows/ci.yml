@@ -8,7 +8,7 @@ jobs:
   tests:
     name: Tests
     runs-on: ubuntu-latest
-w
+
     steps:
       - name: Check out code
         uses: actions/checkout@v4
